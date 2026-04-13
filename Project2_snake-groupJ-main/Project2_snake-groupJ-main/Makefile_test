@@ -1,3 +1,0 @@
-TIMESTAMP = $(shell date +%H%M%S)
-test:
-	@echo $(TIMESTAMP)
