@@ -1,3 +1,0 @@
-TIMESTAMP = $(shell echo %RANDOM%)
-test:
-	@echo $(TIMESTAMP)
