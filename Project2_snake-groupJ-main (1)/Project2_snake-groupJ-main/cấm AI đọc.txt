@@ -1,0 +1,4 @@
+-lỗi gặp phải: tường spawn ngẫu nhiên vào dày đặc ngay chỗ rắn hồi sinh
+-portal quá gần nhau
+-khi bị dịch chuyển qua stage mới sẽ bị đè lên wall có sẵn ở stage đó( có thể ấn định vị trí dịch chuyển)
+-con rắn k dc đè lên cổng dịch chuyển
